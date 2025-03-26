@@ -19,5 +19,7 @@ Before running the bot, ensure you have the following installed:
 - A WhatsApp Web account linked to your phone
 
 ## Demo 
-<img src="./demo-imgs/firstdemo.jpeg" alt="First image" width="500"/>
-<img src="./demo-imgs/seconddemo.jpeg" alt="Second image" width="500"/>
+<p align="center">
+  <img src="./demo-imgs/firstdemo.jpeg" alt="First image" width="45%" style="display: inline-block;"/>
+  <img src="./demo-imgs/seconddemo.jpeg" alt="Second image" width="45%" style="display: inline-block;"/>
+</p>
