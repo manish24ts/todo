@@ -17,3 +17,7 @@ Before running the bot, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/en/download/) (v14 or later)
 - A WhatsApp Web account linked to your phone
+
+## Demo 
+![First image](./demo-imgs/firstdemo.jpeg)
+![Second image](/demo-imgs/seconddemo.jpeg)
